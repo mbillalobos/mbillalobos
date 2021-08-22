@@ -1,4 +1,4 @@
 - 👋 Hola, yo soy @mbillalobos
 - 👀 Estoy interesado en la programación Web
-- 🌱 Actualmente estoy aprendiendo JavaScript
+- 🌱 Actualmente estoy aprendiendo Python
 - 📫 Para contactarme manuelignaciobillalobos@gmail.com
