@@ -1,4 +1,4 @@
 - 👋 Hola, yo soy @mbillalobos
 - 👀 Estoy interesado en la programación Web
-- 🌱 Actualmente estoy aprendiendo Javascript
+- 🌱 Actualmente estoy realizando la carrera de Programación Full Stack en Coderhouse
 - 📫 Para contactarme manuelignaciobillalobos@gmail.com
